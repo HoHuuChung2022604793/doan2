@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:5001/api',
-  socketUrl: 'http://localhost:5001'
+  apiUrl: 'https://doan2-par9.onrender.com/api',
+  socketUrl: 'https://doan2-par9.onrender.com'
 };
